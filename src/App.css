@@ -1,0 +1,17 @@
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+a {
+    text-decoration: none;
+    color: white;
+
+}
+.app {
+    min-height: 100vh;
+    background-color: rgba(115, 9, 201, 0.971);
+    color: white;
+ 
+}

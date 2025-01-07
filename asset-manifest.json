@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/QuizApp-react/static/css/main.392264ff.css",
-    "main.js": "/QuizApp-react/static/js/main.9a5bfaac.js",
+    "main.js": "/QuizApp-react/static/js/main.f064371b.js",
     "static/js/453.fc01f49c.chunk.js": "/QuizApp-react/static/js/453.fc01f49c.chunk.js",
     "static/media/undraw_online-test_20lm.png": "/QuizApp-react/static/media/undraw_online-test_20lm.bac52cdabca3140edb32.png",
     "index.html": "/QuizApp-react/index.html",
     "main.392264ff.css.map": "/QuizApp-react/static/css/main.392264ff.css.map",
-    "main.9a5bfaac.js.map": "/QuizApp-react/static/js/main.9a5bfaac.js.map",
+    "main.f064371b.js.map": "/QuizApp-react/static/js/main.f064371b.js.map",
     "453.fc01f49c.chunk.js.map": "/QuizApp-react/static/js/453.fc01f49c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.392264ff.css",
-    "static/js/main.9a5bfaac.js"
+    "static/js/main.f064371b.js"
   ]
 }

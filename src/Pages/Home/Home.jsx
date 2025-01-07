@@ -28,7 +28,7 @@ export default function Home({name , setName , fetchQuestions}) {
     return <>
        
        <div className="container" > 
-        <h2>Start your Quiz Now... please </h2>
+        <h2>Start your Quiz Now...  </h2>
         
        <hr className=""/>  
 

@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.392264ff.css",
-    "main.js": "/static/js/main.c05de7be.js",
-    "static/js/453.fc01f49c.chunk.js": "/static/js/453.fc01f49c.chunk.js",
-    "static/media/undraw_online-test_20lm.png": "/static/media/undraw_online-test_20lm.bac52cdabca3140edb32.png",
-    "index.html": "/index.html",
-    "main.392264ff.css.map": "/static/css/main.392264ff.css.map",
-    "main.c05de7be.js.map": "/static/js/main.c05de7be.js.map",
-    "453.fc01f49c.chunk.js.map": "/static/js/453.fc01f49c.chunk.js.map"
+    "main.css": "/QuizApp-react/static/css/main.392264ff.css",
+    "main.js": "/QuizApp-react/static/js/main.9a5bfaac.js",
+    "static/js/453.fc01f49c.chunk.js": "/QuizApp-react/static/js/453.fc01f49c.chunk.js",
+    "static/media/undraw_online-test_20lm.png": "/QuizApp-react/static/media/undraw_online-test_20lm.bac52cdabca3140edb32.png",
+    "index.html": "/QuizApp-react/index.html",
+    "main.392264ff.css.map": "/QuizApp-react/static/css/main.392264ff.css.map",
+    "main.9a5bfaac.js.map": "/QuizApp-react/static/js/main.9a5bfaac.js.map",
+    "453.fc01f49c.chunk.js.map": "/QuizApp-react/static/js/453.fc01f49c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.392264ff.css",
-    "static/js/main.c05de7be.js"
+    "static/js/main.9a5bfaac.js"
   ]
 }
